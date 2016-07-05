@@ -4,3 +4,19 @@ html, body {
   background-color: lightgrey;
   text-align: center;
 }
+
+.general {
+  width: 50%;
+  margin:0 25%;
+  border: 1px solid blue;
+}
+
+.general th {
+  border: 1px solid blue;
+  background-color: grey;
+}
+
+.general td {
+  border: 1px solid blue;
+  background-color: lightgrey;
+}
